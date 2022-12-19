@@ -1,0 +1,31 @@
+body{
+    background-image: url("icon/Diseño\ sin\ título.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+.wrap{
+    text-align: center;
+}
+
+@font-face{
+    font-family: 'Mukta';
+    src: url('Mukt-Regular.tts');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mukta';
+    font-size: 50px;
+}
+
+.neon{
+text-align: center;
+color: white;
+margin: 0;
+font-size: 300%;
+text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
+font-family: 'Caramel', cursiva;
+}
