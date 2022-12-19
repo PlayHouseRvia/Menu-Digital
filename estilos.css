@@ -5,9 +5,7 @@ body{
     background-attachment: fixed;
     
 }
-.wrap{
-    text-align: center;
-}
+
 
 @font-face{
     font-family: 'Mukta';
@@ -25,7 +23,7 @@ body{
 text-align: center;
 color: white;
 margin: 0;
-font-size: 500px;
+font-size: 80px;
 text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
 font-family: 'Caramel', cursiva;
 }
