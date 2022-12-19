@@ -18,14 +18,14 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Mukta';
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .neon{
 text-align: center;
 color: white;
 margin: 0;
-font-size: 100px;
+font-size: 500px;
 text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
 font-family: 'Caramel', cursiva;
 }
