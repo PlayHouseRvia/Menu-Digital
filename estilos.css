@@ -1,8 +1,9 @@
 body{
     background-image: url("icon/Diseño\ sin\ título.jpg") ;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100vh;
     background-attachment: fixed;
+    background-size: cover;
     
 }
 
@@ -12,18 +13,25 @@ body{
     src: url('Mukt-Regular.tts');
 }
 *{
-    box-sizing: border-box;
-    font-family: 'Mukta';
-    font-size: 20px;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mukta';
+    font-size: 3vh;
 }
 
 .neon{
 text-align: center;
 color: white;
 margin: 0;
-font-size: 80px;
+font-size: 12vh;
 text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
 font-family: 'Caramel', cursiva;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Caramel', cursive;
+    text-shadow: 0 0 15px blue, 0 0 30px blue, 0 0 50px blue;
+    color: white; 
+    font-size: 5vh;
 }
