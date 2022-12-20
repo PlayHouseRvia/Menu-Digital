@@ -1,11 +1,13 @@
 body{
     background-image: url("icon/Diseño\ sin\ título.jpg") ;
     background-repeat: no-repeat;
-    background-size: 100vh;
-    background-attachment: fixed;
     background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
     
-}
+    
+    
+} 
 
 
 @font-face{
