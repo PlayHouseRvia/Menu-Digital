@@ -3,28 +3,24 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-   
-    
+    background-position: center;   
 }
 
-
-@font-face{
-    font-family: 'Mukta';
-    src: url('Mukt-Regular.tts');
-}
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Mukta';
-    font-size: 3vh;
+    font-size: 5vh;
+    font-family: 'Lobster', cursive;
+    text-shadow: 0 0 15px rgb(182, 14, 140), 0 0 30px rgb(182, 14, 140), 0 0 50px rgb(182, 14, 140);
+    color: #fff;
 }
 
 .neon{
 text-align: center;
 color: white;
 margin: 0;
-font-size: 12vh;
+font-size: 13vh;
 text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
 font-family: 'Caramel', cursiva;
 }
@@ -33,15 +29,11 @@ font-family: 'Caramel', cursiva;
     font-family: 'Caramel', cursive;
     text-shadow: 0 0 15px blue, 0 0 30px blue, 0 0 50px blue;
     color: white; 
-    font-size: 5vh;
+    font-size: 7vh;
 }
- @media screen and (max-widht: 420px) {
+ @media screen and (max-widht:450px) {
     body{
-        background-image: url("icon/Diseño\ sin\ título.jpg") ;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: contain;
-       
+       background-size: contain;
         
     }
  }
