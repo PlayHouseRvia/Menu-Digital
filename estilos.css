@@ -5,7 +5,13 @@ body{
     background-position: center;   
     background-size: 100% 100%;
 }
-
+.Productos{
+    margin: 20px;
+}
+.Menu{
+    padding:10px;
+    line-height:1.5em;
+}
 *{
     margin: 0;
     padding: 0;
@@ -17,12 +23,12 @@ body{
 }
 
 .neon{
-text-align: center;
-color: white;
-margin: 0;
-font-size: 13vh;
-text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
-font-family: 'Caramel', cursiva;
+    text-align: center;
+    color: white;
+    margin: 0;
+    font-size: 13vh;
+    text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
+    font-family: 'Caramel', cursiva;
 }
 .titulo{
     text-align: center;
