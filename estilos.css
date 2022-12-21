@@ -31,9 +31,3 @@ font-family: 'Caramel', cursiva;
     color: white; 
     font-size: 7vh;
 }
- @media screen and (max-widht:450px) {
-    body{
-       background-size: contain;
-        
-    }
- }
