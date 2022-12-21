@@ -10,7 +10,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 5vh;
+    font-size: 3vh;
     font-family: 'Lobster', cursive;
     text-shadow: 0 0 15px rgb(182, 14, 140), 0 0 30px rgb(182, 14, 140), 0 0 50px rgb(182, 14, 140);
     color: #fff;
