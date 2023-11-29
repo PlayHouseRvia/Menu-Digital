@@ -8,6 +8,10 @@ body{
 .Productos{
     margin: 20px;
 }
+.precios{
+    left: 250px;
+    position: absolute;
+}
 .Menu{
     padding:10px;
     line-height:1.5em;
