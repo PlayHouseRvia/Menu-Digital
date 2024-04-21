@@ -1,15 +1,18 @@
 body{
-    background-image: url("icon/Diseño\ sin\ título.jpg") ;
+    background-color: black;
+    background-image: url(icon/IMG-20240420-WA0018.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;   
-    background-size: 100% 100%;
+    background-position: center;  
+    background-position: relative; 
+    background-size: 100%;
 }
+
 .Productos{
     margin: 20px;
 }
 .precios{
-    left: 250px;
+    left: 75%;
     position: absolute;
 }
 .Menu{
@@ -21,7 +24,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-size: 3vh;
-    font-family: 'Lobster', cursive;
+    font-family: "Platypi", serif;
     text-shadow: 0 0 15px rgb(182, 14, 140), 0 0 30px rgb(182, 14, 140), 0 0 50px rgb(182, 14, 140);
     color: #fff;
 }
@@ -32,11 +35,11 @@ body{
     margin: 0;
     font-size: 13vh;
     text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
-    font-family: 'Caramel', cursiva;
+    font-family: "Platypi", serif;
 }
 .titulo{
     text-align: center;
-    font-family: 'Caramel', cursive;
+    font-family: "Platypi", serif;
     text-shadow: 0 0 15px blue, 0 0 30px blue, 0 0 50px blue;
     color: white; 
     font-size: 7vh;
