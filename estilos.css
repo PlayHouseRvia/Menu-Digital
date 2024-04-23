@@ -1,11 +1,10 @@
 body{
-    background-color: black;
     background-image: url(icon/IMG-20240420-WA0018.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;  
     background-position: relative; 
-    background-size: 150%;
+    background-size: 140%;
 }
 
 .Productos{
@@ -33,7 +32,7 @@ body{
     text-align: center;
     color: white;
     margin: 0;
-    font-size: 13vh;
+    font-size: 10vh;
     text-shadow: 0 0 15px blue, 0 0 15px blue, 0 0 30px blue;
     font-family: "Platypi", serif;
 }
@@ -42,5 +41,5 @@ body{
     font-family: "Platypi", serif;
     text-shadow: 0 0 15px blue, 0 0 30px blue, 0 0 50px blue;
     color: white; 
-    font-size: 7vh;
+    font-size: 6vh;
 }
